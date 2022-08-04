@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kodenaime
+- 👋 Hi, I’m iamdaniel
 - 👀 I’m interested in getting better in android development and Web development 
 - 🌱 I’m currently learning android development 
 - 💞️ I’m looking to collaborate on a student website 
