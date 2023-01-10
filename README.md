@@ -1,7 +1,7 @@
 - 👋 Hi, I’m iamdaniel
-- 👀 I’m interested in getting better in android development and Web development 
-- 🌱 I’m currently learning android development 
-- 💞️ I’m looking to collaborate on a student website 
+- 👀 I’m interested in working with new frame works and libraries
+- 🌱 I’m currently learning react 
+- 💞️ I’m looking to collaborate on an online market
 - 📫 How to reach me creativedannyk@gmail.com 
 
 <!---
