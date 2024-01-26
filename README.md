@@ -1,7 +1,7 @@
 - 👋 Hi, I’m iamdaniel
-- 👀 I’m interested in working with new frame works and libraries
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on an online market
+- 👀 I’m interested in working with new frameworks and libraries
+- 🌱 I’m currently learning Firebase
+- 💞️ I’m looking to collaborate on an performance improvement for websites
 - 📫 How to reach me creativedannyk@gmail.com 
 
 <!---
